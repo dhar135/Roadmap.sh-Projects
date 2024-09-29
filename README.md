@@ -2,6 +2,8 @@
 
 A curated collection of my completed projects from Roadmap.sh.
 
+Projects Link: https://roadmap.sh/backend/projects
+
 ## Table of Contents
 - [Projects](#projects)
     - [Beginner Projects](#beginner-projects)
