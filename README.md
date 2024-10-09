@@ -8,7 +8,7 @@ Projects Link: https://roadmap.sh/backend/projects
 - [Projects](#projects)
     - [Beginner Projects](#beginner-projects)
         - [Java Task Tracker CLI](#java-task-tracker-cli)
-        - [Java Task Tracker CLI (Spring Boot)](#java-task-tracker-cli-spring-boot)
+        - [Java Task Tracker CLI (Spring Boot Implementation)](#java-task-tracker-cli-spring-boot)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
