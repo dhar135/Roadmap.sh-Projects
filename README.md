@@ -17,10 +17,10 @@ Full list of Projects [here](https://roadmap.sh/projects)
 
 ### Beginner Projects
 
-#### Java Task Tracker CLI
+#### [Java Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
 A command-line interface (CLI) application built with Java to manage a to-do list.
 
-#### Java Task Tracker CLI (Spring Boot)
+#### [Java Task Tracker CLI (Spring Boot)](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Beginner/java-task-tracker-cli-springboot)
 A command-line interface (CLI) application built with Spring Boot to manage a to-do list.
 
 ## Getting Started
