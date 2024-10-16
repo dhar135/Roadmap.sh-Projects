@@ -1,8 +1,8 @@
 # Roadmap.sh Backend Projects
 
-A curated collection of my completed projects from Roadmap.sh.
+A curated collection of my completed projects from [Roadmap.sh](https://roadmap.sh/).
 
-Projects Link: https://roadmap.sh/backend/projects
+Full list of Projects [here](https://roadmap.sh/projects)
 
 ## Table of Contents
 - [Projects](#projects)
