@@ -1,6 +1,8 @@
 # Task Tracker CLI
 
-A command-line interface application for tracking and managing your tasks. Built with Java, this application allows you to create, update, and manage tasks while storing them persistently in a JSON file.
+My solution for the [Task Tracker](https://roadmap.sh/projects/task-tracker) project on [Roadmap.sh](https://roadmap.sh/).
+
+You can find the rest of their projects here: [projects](https://roadmap.sh/projects)
 
 ## Features
 
@@ -18,6 +20,7 @@ A command-line interface application for tracking and managing your tasks. Built
 
 1. Ensure you have Java Development Kit (JDK) installed on your system
 2. Clone this repository:
+
 ```bash
 git clone <repository-url>
 cd task-tracker-cli
@@ -90,34 +93,8 @@ Example task JSON structure:
 }
 ```
 
-## Error Handling
-
-The application includes error handling for common scenarios:
-
-- Invalid task IDs
-- Non-existent tasks
-- Invalid status values
-- Missing command arguments
-- File I/O errors
-
-## Technical Details
-
-- Built with pure Java (no external dependencies)
-- Uses native Java file I/O operations
-- Implements custom JSON parsing and generation
-- Thread-safe task ID generation
-- ISO-8601 timestamp format
-
 ## Project Structure
 
 - `TaskCLIApp.java`: Main application entry point and command handling
 - `Task.java`: Task model and JSON conversion logic
 - `TaskController.java`: Business logic and file operations
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-[Add your chosen license here]
