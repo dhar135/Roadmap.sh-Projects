@@ -2,8 +2,6 @@
 
 My solution for the [Task Tracker](https://roadmap.sh/projects/task-tracker) project on [Roadmap.sh](https://roadmap.sh/).
 
-You can find the rest of their projects here: [projects](https://roadmap.sh/projects)
-
 ## Features
 
 - Add new tasks with descriptions
