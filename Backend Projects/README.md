@@ -1,9 +1,5 @@
 # Roadmap.sh Backend Projects
 
-A curated collection of my completed projects from [Roadmap.sh](https://roadmap.sh/).
-
-Full list of Projects [here](https://roadmap.sh/projects)
-
 ## Table of Contents
 - [Projects](#projects)
     - [Beginner Projects](#beginner-projects)
@@ -25,7 +21,7 @@ A command-line interface (CLI) application built with Spring Boot to manage a to
 
 ## Getting Started
 
-To get started with any of these projects, clone the repository and follow the instructions in the respective project directories.
+To start with any of these projects, clone the repository and follow the instructions in the respective project directories.
 
 ```sh
 git clone https://github.com/dhar135/Roadmap.sh-Projects.git
@@ -33,7 +29,7 @@ git clone https://github.com/dhar135/Roadmap.sh-Projects.git
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please fork the repository and create a pull request. For major changes, please open an issue first to talk about what you'd like to change.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
