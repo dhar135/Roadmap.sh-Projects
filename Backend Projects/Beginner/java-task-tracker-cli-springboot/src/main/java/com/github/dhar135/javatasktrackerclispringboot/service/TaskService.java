@@ -5,7 +5,6 @@ import com.github.dhar135.javatasktrackerclispringboot.model.TaskStatus;
 import com.github.dhar135.javatasktrackerclispringboot.repository.TaskRepository;
 import org.springframework.stereotype.Service;
 
-import java.time.format.DateTimeFormatter;
 import java.time.LocalDateTime;
 import java.util.List;
 
@@ -21,10 +20,10 @@ public class TaskService {
     public Task addTask(String description) {
         Task task = new Task();
         task.setDescription(description);
-        task.setStatus(TaskStatus.TODO);        
+        task.setStatus(TaskStatus.TODO);
         task.setCreatedAt(LocalDateTime.now());
         task.setUpdatedAt(LocalDateTime.now());
-        return taskRepository.save(task)
+        return taskRepository.save(task);
     }
 
     public Task updateTask(Long id, String description) {
