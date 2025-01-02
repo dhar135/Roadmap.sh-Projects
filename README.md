@@ -6,5 +6,5 @@ Full list of Projects [here](https://roadmap.sh/projects)
 
 ## Completed Projects: 
 - [Task Tracker](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Backend%20Projects/Beginner/java-task-tracker-cli)
-- [Task Tracker (Spring Boot Implementation](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Backend%20Projects/Beginner/java-task-tracker-cli-springboot)
+- [Task Tracker (Spring Boot Implementation)](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Backend%20Projects/Beginner/java-task-tracker-cli-springboot)
 - [Github User Activity](https://github.com/dhar135/Roadmap.sh-Projects/blob/main/README.md)
