@@ -13,11 +13,14 @@
 
 ### Beginner Projects
 
-#### [Java Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
+#### [Task Tracker CLI](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Backend%20Projects/Beginner/java-task-tracker-cli)
 A command-line interface (CLI) application built with Java to manage a to-do list.
 
-#### [Java Task Tracker CLI (Spring Boot)](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Beginner/java-task-tracker-cli-springboot)
+#### [Task Tracker CLI (Spring Boot)](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Beginner/java-task-tracker-cli-springboot)
 A command-line interface (CLI) application built with Spring Boot to manage a to-do list.
+
+#### [Github User Activity](https://github.com/dhar135/Roadmap.sh-Projects/tree/main/Backend%20Projects/Beginner/github-user-activity-cli)
+A command-line interface application that fetches and displays a GitHub user's recent activity using the GitHub API.
 
 ## Getting Started
 
