@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.dhar135</groupId>
-    <artifactId>github-user-activity-cli</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>github-activity-cli</artifactId>
+    <version>1.0</version>
 
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
@@ -14,6 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jackson.version>2.18.0</jackson.version>
     </properties>
+
 
     <dependencies>
         <dependency>
@@ -32,6 +33,11 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.11.3</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>5.7.0</version>
         </dependency>
     </dependencies>
 
