@@ -3,8 +3,9 @@
 ## Table of Contents
 - [Projects](#projects)
     - [Beginner Projects](#beginner-projects)
-        - [Java Task Tracker CLI](#java-task-tracker-cli)
-        - [Java Task Tracker CLI (Spring Boot Implementation)](#java-task-tracker-cli-spring-boot)
+        - [Task Tracker CLI](#java-task-tracker-cli)
+        - [Task Tracker CLI (Spring Boot Implementation)](#java-task-tracker-cli-spring-boot)
+        - [Github User Activity](#github-user-activity)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
